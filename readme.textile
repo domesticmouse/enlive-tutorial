@@ -94,7 +94,7 @@ Enlive is fantastic for scraping the content of webpages. It allows you to scrap
 user=> (load "tutorial/scrape1")
 nil
 user=> (in-ns 'tutorial.scrape1)
-nil
+#object[clojure.lang.Namespace 0x5c96bfda "tutorial.scrape1"]
 tutorial.scrape1=> *base-url*
 "https://news.ycombinator.com/"
 </pre>
